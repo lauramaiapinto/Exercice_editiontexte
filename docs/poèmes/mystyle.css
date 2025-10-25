@@ -1,11 +1,11 @@
 
 a {
-    color: #345c42;
+    color: #26402f;
 }
 
 
 body {
-  background-color: #92bda0; 
+  background-color: #a1c8b6; 
   box-sizing: content-box;  
   padding: 50px; 
   color: #3b2f2f; 
@@ -13,9 +13,23 @@ body {
 
 
 h1 {
-  color: #2e5339;
+  color: #233e2b;
   margin-left: 20px;
 }
+
+h2 {
+    color: #392b24; 
+    font-size: larger;
+}
+
+
+h4 {
+    color: #392b24; 
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-size: large;
+}
+
 
 p {
     padding-top: 1%;
@@ -23,7 +37,7 @@ p {
 
 
 .organisation {
-    color: rgb(135, 41, 186)    ;
+    color: rgb(41, 157, 186)    ;
 }
 
 
@@ -40,5 +54,12 @@ p {
     font-size: large;
     font-style: oblique;
     font-weight: 1,5;
-    color: #2e5339;
+    color: #2f5139;
+}
+
+
+.keyword {
+    font-weight: bold;
+    font-style: italic;
+    color: #4e4741; /* brun plus clair pour ressortir */
 }
