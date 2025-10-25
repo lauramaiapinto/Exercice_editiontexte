@@ -1,17 +1,19 @@
 
 a {
-    color: rgb(55, 31, 153);
+    color: #345c42;
 }
 
 
 body {
-  background-color: lightblue;
+  background-color: #d8e0d0; /* vert sauge clair */
   box-sizing: content-box;  
   padding: 50px; 
+  color: #3b2f2f; /* brun foncé */
 }
 
+
 h1 {
-  color: navy;
+  color: #2e5339;
   margin-left: 20px;
 }
 
@@ -38,4 +40,5 @@ p {
     font-size: large;
     font-style: oblique;
     font-weight: 1,5;
+    color: #2e5339;
 }
